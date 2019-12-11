@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "moment": "^2.22.1",
     "vue": "^2.5.2",
-    "vue-axios": "^2.1.1",
+    "vue-axios": "^2.1.5",
     "vue-momentjs": "^0.1.2"
   },
   "devDependencies": {
